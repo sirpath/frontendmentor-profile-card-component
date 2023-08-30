@@ -1,9 +1,9 @@
 # Live Demo
 
-https://sirpath.github.io/frontendmentor-result-summary-component/
+https://sirpath.github.io/frontendmentor-profile-card-component/
 
 --the below information is original challenge README
-(https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV)
+(https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ)
 
 # Frontend Mentor - Profile card component
 
